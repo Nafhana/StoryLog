@@ -1,4 +1,4 @@
-# Book & Movie Journal (In Progress)
+# StoryLog (In Progress)
 
 A mobile application where users can log, rate, and review books or movies — like a personal journal that saves everything online.
 
